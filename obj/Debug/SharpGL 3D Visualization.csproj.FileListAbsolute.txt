@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\SharpGL 3D Visualization\bin\Debug\SharpGL 3D Visualization.exe.config
+C:\Users\USER\source\repos\SharpGL 3D Visualization\bin\Debug\SharpGL 3D Visualization.exe
+C:\Users\USER\source\repos\SharpGL 3D Visualization\bin\Debug\SharpGL 3D Visualization.pdb
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL_3D_Visualization.Form1.resources
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL_3D_Visualization.Properties.Resources.resources
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.csproj.CopyComplete
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.exe
+C:\Users\USER\source\repos\SharpGL 3D Visualization\obj\Debug\SharpGL 3D Visualization.pdb
