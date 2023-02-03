@@ -9,7 +9,7 @@ This repository contains a project using SharpGL library to create 3D visualizat
 
 ## Getting Started
 1. Clone the repository to your local machine
-2. Open the solution file `SharpGL-3D-Visualization.sln` in Visual Studio
+2. Open the solution file `SharpGL 3D Visualization.sln` in Visual Studio
 3. Build and run the solution
 
 ## Built With
@@ -17,6 +17,3 @@ This repository contains a project using SharpGL library to create 3D visualizat
 
 ## Contributions
 Contributions are welcome. Please create a pull request to suggest changes or improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
